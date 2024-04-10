@@ -24,3 +24,4 @@ class Neuron {
 }
 
 export default Neuron;
+//Дефолтим всё по экспорту 
